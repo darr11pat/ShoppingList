@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">List</string>
+
+    <string name="action_add">Add</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_deleteAll">Delete List</string>
+    <string name="action_reset">Reset</string>
+</resources>
